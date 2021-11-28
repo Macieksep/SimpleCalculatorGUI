@@ -586,6 +586,8 @@ public class Calculator {
 
     Tytuł: Kalkulator podstawowy
 
+    Autor: Maciej Sepeta
+
     Opis: Kalkulator zawiera podstawowe funkcje do obliczeń matematycznych
 
         PROCES TWORZENIA:
