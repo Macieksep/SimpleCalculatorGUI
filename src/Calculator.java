@@ -401,10 +401,6 @@ public class Calculator {
 
                 double Xliczba = Double.parseDouble(liczba.getText());
 
-//              URUCHOM ABY WYSWIETLALY SIE LICZBY AKTUALNE I W PAMIECI (Bug testing mode)
-//                System.out.println(memLiczba[0]);
-//                System.out.println(Xliczba);
-
                 double wynik = 0;
 
                 switch (buttonClicked[0]) {
@@ -609,12 +605,8 @@ public class Calculator {
             dzielenia,
             pierwiastka,
         - poprawienie błędów
-
     0.1.2
         - zmieniono wygląd przycisków DarkMode i LightMode
         - zoptymalizowano kod
-
-    * UWAGA! Aplikacja jest w fazie otwartej Bety i mogą pojawić się błędy w działaniu.
-    * Znalazłeś błąd? Zgłoś go na adres mailowy: kalkul@tor.ru
 
 */
